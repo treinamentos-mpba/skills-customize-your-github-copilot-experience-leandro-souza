@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique strings, loops, condicionais e entrada de dados criando um jogo da Forca em que o jogador tenta adivinhar uma palavra oculta antes de esgotar as tentativas.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar o Jogo da Forca
 
