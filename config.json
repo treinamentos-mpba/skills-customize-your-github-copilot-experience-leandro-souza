@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "async-programming-fastapi",
+      "title": "Async Programming with FastAPI",
+      "description": "Practice async/await and concurrent I/O by aggregating simulated service data with FastAPI.",
+      "path": "assignments/async-programming-fastapi",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
